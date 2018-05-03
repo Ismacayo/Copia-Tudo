@@ -1,0 +1,11 @@
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.csprojResolveAssemblyReference.cache
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.FormPrincipal.resources
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.ListaArquivos.resources
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.Properties.Resources.resources
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.csproj.GenerateResource.Cache
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.csproj.CoreCompileInputs.cache
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\bin\Debug\CopiaTudo.exe.config
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\bin\Debug\CopiaTudo.exe
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\bin\Debug\CopiaTudo.pdb
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.exe
+D:\TFS\Projetos\Bradesco\Sise\Gestão de Ambiente\CopiaTudo\CopiaTudo\CopiaTudo\obj\Debug\CopiaTudo.pdb
